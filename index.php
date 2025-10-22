@@ -47,7 +47,7 @@
 
     <!-- Video Section -->
     <section class="videos-section">
-      <h2>🎬 My Favorite Videos</h2>
+      <h2>🎬 My Favorite Videos Ever</h2>
 
       <div class="videos">
         <div class="video-card">
